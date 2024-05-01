@@ -28,6 +28,10 @@ Template for the `README.md` file:
 
 ### CV
 
+#### 2024
+
+**(ICLR)** [Do Generated Data Always Help Contrastive Learning?]([Link](https://arxiv.org/abs/2403.12448v1)); Yifei Wang, Jizhe Zhang, Yisen Wang;
+
 #### 2023
 
 **(NIPS)** [StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners](http://arxiv.org/abs/2306.00984); Yonglong Tian, Lijie Fan, Phillip Isola, Huiwen Chang, Dilip Krishnan;
