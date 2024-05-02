@@ -56,3 +56,7 @@ Template for the `README.md` file:
 #### 2024
 
 **(arXiv)** [Group-wise Prompting for Synthetic Tabular Data Generation using Large Language Models](https://arxiv.org/abs/2404.12404); Jinhee Kim, Taesung Kim, Jaegul Choo;
+
+#### 2023
+
+**(ICML)** [TabDDPM: Modelling Tabular Data with Diffusion Models](https://proceedings.mlr.press/v202/kotelnikov23a/kotelnikov23a.pdf); Akim Kotelnikov, Dmitry Baranchuk, Ivan Rubachev, Artem Babenko;
