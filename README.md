@@ -60,3 +60,7 @@ Template for the `README.md` file:
 #### 2023
 
 **(ICML)** [TabDDPM: Modelling Tabular Data with Diffusion Models](https://proceedings.mlr.press/v202/kotelnikov23a/kotelnikov23a.pdf); Akim Kotelnikov, Dmitry Baranchuk, Ivan Rubachev, Artem Babenko;
+
+#### 2021
+
+**(arXiv)** [CTAB-GAN: Effective Table Data Synthesizing](https://arxiv.org/abs/2102.08369); Zilong Zhao, Aditya Kunar, Hiek Van der Scheer, Robert Birke, Lydia Y. Chen;
