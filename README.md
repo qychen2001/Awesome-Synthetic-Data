@@ -63,6 +63,10 @@ Template for the `README.md` file:
 
 **(arXiv)** [TabuLa: Harnessing Language Models for Tabular Data Synthesis](https://arxiv.org/abs/2310.12746); Zilong Zhao, Robert Birke, Lydia Chen;
 
+#### 2022
+
+**(arXiv)** [CTAB-GAN+: Enhancing Tabular Data Synthesis](https://arxiv.org/abs/2204.00401); Zilong Zhao, Aditya Kunar, Robert Birke, Lydia Y. Chen;
+
 #### 2021
 
 **(arXiv)** [CTAB-GAN: Effective Table Data Synthesizing](https://arxiv.org/abs/2102.08369); Zilong Zhao, Aditya Kunar, Hiek Van der Scheer, Robert Birke, Lydia Y. Chen;
