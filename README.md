@@ -30,6 +30,8 @@ Template for the `README.md` file:
 
 **(ACL)** [Self-Instruct: Aligning Language Models with Self-Generated Instructions](https://arxiv.org/abs/2212.10560); Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi;
 
+**(ACL)** [Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor](https://arxiv.org/abs/2212.09689); Or Honovich, Thomas Scialom, Omer Levy, Timo Schick;
+
 ### CV
 
 #### 2024
