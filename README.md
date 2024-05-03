@@ -26,6 +26,8 @@ Template for the `README.md` file:
 
 **(EMNLP)** [Contrastive Learning of Sentence Embeddings from Scratch](https://arxiv.org/abs/2305.15077); Junlei Zhang, Zhenzhong Lan, Junxian He;
 
+**(EMNLP)** [FreeAL: Towards Human-Free Active Learning in the Era of Large Language Models](https://arxiv.org/abs/2311.15614); Ruixuan Xiao, Yiwen Dong, Junbo Zhao, Runze Wu, Minmin Lin, Gang Chen, Haobo Wang;
+
 #### 2022
 
 **(ACL)** [Self-Instruct: Aligning Language Models with Self-Generated Instructions](https://arxiv.org/abs/2212.10560); Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi;
