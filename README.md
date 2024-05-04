@@ -54,11 +54,14 @@ Template for the `README.md` file:
 
 **(arXiv)** [DreamLIP: Language-Image Pre-training with Long Captions](https://arxiv.org/abs/2403.17007); Kecheng Zheng, Yifei Zhang, Wei Wu, Fan Lu, Shuailei Ma, Xin Jin, Wei Chen, Yujun Shen;
 
+**(arXiv)** [SynCDR : Training Cross Domain Retrieval Models with Synthetic Data](https://arxiv.org/abs/2401.00420); Samarth Mishra, Carlos D. Castillo, Hongcheng Wang, Kate Saenko, Venkatesh Saligrama;
+
 #### 2023
 
 **(ICCV)** [ALIP: Adaptive Language-Image Pre-training with Synthetic Caption](https://arxiv.org/abs/2308.08428); Kaicheng Yang, Jiankang Deng, Xiang An, Jiawei Li, Ziyong Feng, Jia Guo, Jing Yang, Tongliang Liu;
 
 **(ICCV)** [Going Beyond Nouns With Vision & Language Models Using Synthetic Data](https://openaccess.thecvf.com/content/ICCV2023/html/Cascante-Bonilla_Going_Beyond_Nouns_With_Vision__Language_Models_Using_Synthetic_ICCV_2023_paper.html); Paola Cascante-Bonilla, Khaled Shehada, James Seale Smith, Sivan Doveh, Donghyun Kim, Rameswar Panda, Gul Varol, Aude Oliva, Vicente Ordonez, Rogerio Feris, Leonid Karlinsky;
+
 ### Tabular
 
 #### 2024
