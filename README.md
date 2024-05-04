@@ -50,6 +50,10 @@ Template for the `README.md` file:
 
 ### Multi Modal
 
+#### 2024
+
+**(arXiv)** [DreamLIP: Language-Image Pre-training with Long Captions](https://arxiv.org/abs/2403.17007); Kecheng Zheng, Yifei Zhang, Wei Wu, Fan Lu, Shuailei Ma, Xin Jin, Wei Chen, Yujun Shen;
+
 #### 2023
 
 **(ICCV)** [ALIP: Adaptive Language-Image Pre-training with Synthetic Caption](https://arxiv.org/abs/2308.08428); Kaicheng Yang, Jiankang Deng, Xiang An, Jiawei Li, Ziyong Feng, Jia Guo, Jing Yang, Tongliang Liu;
