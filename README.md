@@ -38,7 +38,7 @@ Template for the `README.md` file:
 
 #### 2024
 
-**(ICLR)** [Do Generated Data Always Help Contrastive Learning?]([Link](https://arxiv.org/abs/2403.12448v1)); Yifei Wang, Jizhe Zhang, Yisen Wang;
+**(ICLR)** [Do Generated Data Always Help Contrastive Learning?](https://arxiv.org/abs/2403.12448v1); Yifei Wang, Jizhe Zhang, Yisen Wang;
 
 #### 2023
 
