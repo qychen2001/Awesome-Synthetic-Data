@@ -22,6 +22,8 @@ Template for the `README.md` file:
 
 **(arXiv)** [Synthetic Data (Almost) from Scratch: Generalized Instruction Tuning for Language Models](https://arxiv.org/abs/2402.13064); Haoran Li, Qingxiu Dong, Zhengyang Tang, Chaojun Wang, Xingxing Zhang, Haoyang Huang, Shaohan Huang, Xiaolong Huang, Zeqiang Huang, Dongdong Zhang, Yuxian Gu, Xin Cheng, Xun Wang, Si-Qing Chen, Li Dong, Wei Lu, Zhifang Sui, Benyou Wang, Wai Lam, Furu Wei;
 
+**(arXiv)** [Improving Text Embeddings with Large Language Models](https://arxiv.org/abs/2401.00368); Liang Wang, Nan Yang, Xiaolong Huang, Linjun Yang, Rangan Majumder, Furu Wei;
+
 #### 2023
 
 **(EMNLP)** [Contrastive Learning of Sentence Embeddings from Scratch](https://arxiv.org/abs/2305.15077); Junlei Zhang, Zhenzhong Lan, Junxian He;
