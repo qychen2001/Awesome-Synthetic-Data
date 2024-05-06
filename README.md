@@ -52,6 +52,8 @@ Template for the `README.md` file:
 
 **(arXiv)** [Scaling Laws of Synthetic Images for Model Training ... for Now](http://arxiv.org/abs/2312.04567); Lijie Fan, Kaifeng Chen, Dilip Krishnan, Dina Katabi, Phillip Isola, Yonglong Tian;
 
+**(arXiv)** [Synthetic Data from Diffusion Models Improves ImageNet Classification](https://arxiv.org/abs/2304.08466); Shekoofeh Azizi, Simon Kornblith, Chitwan Saharia, Mohammad Norouzi, David J. Fleet;
+
 ### Multi Modal
 
 #### 2024
