@@ -10,6 +10,8 @@ Template for the `README.md` file:
 
 **(arXiv)** [Best Practices and Lessons Learned on Synthetic Data for Language Models](https://arxiv.org/abs/2404.07503); Ruibo Liu, Jerry Wei, Fangyu Liu, Chenglei Si, Yanzhe Zhang, Jinmeng Rao, Steven Zheng, Daiyi Peng, Diyi Yang, Denny Zhou, Andrew M. Dai;
 
+**(arXiv)** [Generative AI for Synthetic Data Generation: Methods, Challenges and the Future](https://arxiv.org/abs/2403.04190); Xu Guo, Yiqiang Chen;
+
 ## Papers
 
 ### NLP
