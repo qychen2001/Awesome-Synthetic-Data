@@ -74,6 +74,9 @@ Template for the `README.md` file:
 
 **(arXiv)** [DataDreamer: A Tool for Synthetic Data Generation and Reproducible LLM Workflows](https://arxiv.org/abs/2402.10379); Ajay Patel, Colin Raffel, Chris Callison-Burch;
 
+**(arXiv)** [TextSquare: Scaling up Text-Centric Visual Instruction Tuning](https://arxiv.org/abs/2404.12803); Jingqun Tang, Chunhui Lin, Zhen Zhao, Shu Wei, Binghong Wu, Qi Liu, Hao Feng, Yang Li, Siqi Wang, Lei Liao, Wei Shi, Yuliang Liu, Hao Liu, Yuan Xie, Xiang Bai, Can Huang;
+
+
 #### 2023
 
 **(ICCV)** [ALIP: Adaptive Language-Image Pre-training with Synthetic Caption](https://arxiv.org/abs/2308.08428); Kaicheng Yang, Jiankang Deng, Xiang An, Jiawei Li, Ziyong Feng, Jia Guo, Jing Yang, Tongliang Liu;
