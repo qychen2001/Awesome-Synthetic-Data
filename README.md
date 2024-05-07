@@ -28,6 +28,8 @@ Template for the `README.md` file:
 
 **(arXiv)** [Improving Text Embeddings with Large Language Models](https://arxiv.org/abs/2401.00368); Liang Wang, Nan Yang, Xiaolong Huang, Linjun Yang, Rangan Majumder, Furu Wei;
 
+**(arXiv)** [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/abs/2401.01335); Zixiang Chen, Yihe Deng, Huizhuo Yuan, Kaixuan Ji, Quanquan Gu;
+
 #### 2023
 
 **(EMNLP)** [Contrastive Learning of Sentence Embeddings from Scratch](https://arxiv.org/abs/2305.15077); Junlei Zhang, Zhenzhong Lan, Junxian He;
