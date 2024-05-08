@@ -44,6 +44,10 @@ Template for the `README.md` file:
 
 **(ACL)** [Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor](https://arxiv.org/abs/2212.09689); Or Honovich, Thomas Scialom, Omer Levy, Timo Schick;
 
+#### 2019
+
+**(ICLR)** [Analysing Mathematical Reasoning Abilities of Neural Models](https://openreview.net/pdf?id=H1gR5iR5FX) David Saxton, Edward Grefenstette, Felix Hill, Pushmeet Kohli;
+
 ### CV
 
 #### 2024
@@ -83,6 +87,10 @@ Template for the `README.md` file:
 
 **(ICCV)** [Going Beyond Nouns With Vision & Language Models Using Synthetic Data](https://openaccess.thecvf.com/content/ICCV2023/html/Cascante-Bonilla_Going_Beyond_Nouns_With_Vision__Language_Models_Using_Synthetic_ICCV_2023_paper.html); Paola Cascante-Bonilla, Khaled Shehada, James Seale Smith, Sivan Doveh, Donghyun Kim, Rameswar Panda, Gul Varol, Aude Oliva, Vicente Ordonez, Rogerio Feris, Leonid Karlinsky;
 
+#### 2021
+
+**(Springer Nature)** [Synthetic data for deep learning](https://link.springer.com/content/pdf/10.1007/978-3-030-75178-4.pdf); Sergey I. Nikolenko;
+
 ### Tabular
 
 #### 2024
@@ -94,6 +102,8 @@ Template for the `README.md` file:
 **(ICML)** [TabDDPM: Modelling Tabular Data with Diffusion Models](https://proceedings.mlr.press/v202/kotelnikov23a/kotelnikov23a.pdf); Akim Kotelnikov, Dmitry Baranchuk, Ivan Rubachev, Artem Babenko;
 
 **(arXiv)** [TabuLa: Harnessing Language Models for Tabular Data Synthesis](https://arxiv.org/abs/2310.12746); Zilong Zhao, Robert Birke, Lydia Chen;
+
+**(ICLR)** [Language Models are Realistic Tabular Data Generators](https://openreview.net/pdf?id=cEygmQNOeI); Vadim Borisov, Kathrin Sessler, Tobias Leemann, Martin Pawelczyk, Gjergji Kasneci;
 
 #### 2022
 
