@@ -107,6 +107,8 @@ Template for the `README.md` file:
 
 **(ICLR)** [Language Models are Realistic Tabular Data Generators](https://openreview.net/pdf?id=cEygmQNOeI); Vadim Borisov, Kathrin Sessler, Tobias Leemann, Martin Pawelczyk, Gjergji Kasneci;
 
+**(EMNLP)** [Generative Table Pre-training Empowers Models for Tabular Prediction](https://aclanthology.org/2023.emnlp-main.917/); Tianping Zhang, Shaowen Wang, Shuicheng Yan, Li Jian, Qian Liu;
+
 **(arXiv)** [TabuLa: Harnessing Language Models for Tabular Data Synthesis](https://arxiv.org/abs/2310.12746); Zilong Zhao, Robert Birke, Lydia Chen;
 
 **(arXiv)** [DP-TBART: A Transformer-based Autoregressive Model for Differentially Private Tabular Data Generation](https://arxiv.org/abs/2307.10430); Zilong Zhao, Robert Birke, Lydia Chen;
