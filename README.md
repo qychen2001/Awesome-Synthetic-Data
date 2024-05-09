@@ -97,6 +97,8 @@ Template for the `README.md` file:
 
 **(arXiv)** [Group-wise Prompting for Synthetic Tabular Data Generation using Large Language Models](https://arxiv.org/abs/2404.12404); Jinhee Kim, Taesung Kim, Jaegul Choo;
 
+**(arXiv)** [Structured Evaluation of Synthetic Tabular Data](https://arxiv.org/abs/2403.10424); Scott Cheng-Hsin Yang, Baxter Eaves, Michael Schmidt, Ken Swanson, Patrick Shafto;
+
 #### 2023
 
 **(NIPS)** [TabMT: Generating tabular data with masked transformers](https://proceedings.neurips.cc/paper_files/paper/2023/hash/90debc7cedb5cac83145fc8d18378dc5-Abstract-Conference.html); Manbir Gulati, Paul Roysdon;
