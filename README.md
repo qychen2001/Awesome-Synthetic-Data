@@ -103,13 +103,15 @@ Template for the `README.md` file:
 
 **(ICML)** [TabDDPM: Modelling Tabular Data with Diffusion Models](https://proceedings.mlr.press/v202/kotelnikov23a/kotelnikov23a.pdf); Akim Kotelnikov, Dmitry Baranchuk, Ivan Rubachev, Artem Babenko;
 
+**(ICLR)** [Language Models are Realistic Tabular Data Generators](https://openreview.net/pdf?id=cEygmQNOeI); Vadim Borisov, Kathrin Sessler, Tobias Leemann, Martin Pawelczyk, Gjergji Kasneci;
+
 **(arXiv)** [TabuLa: Harnessing Language Models for Tabular Data Synthesis](https://arxiv.org/abs/2310.12746); Zilong Zhao, Robert Birke, Lydia Chen;
 
-**(ICLR)** [Language Models are Realistic Tabular Data Generators](https://openreview.net/pdf?id=cEygmQNOeI); Vadim Borisov, Kathrin Sessler, Tobias Leemann, Martin Pawelczyk, Gjergji Kasneci;
+**(arXiv)** [DP-TBART: A Transformer-based Autoregressive Model for Differentially Private Tabular Data Generation](https://arxiv.org/abs/2307.10430); Zilong Zhao, Robert Birke, Lydia Chen;
 
 #### 2022
 
-**(arXiv)** [CTAB-GAN+: Enhancing Tabular Data Synthesis](https://arxiv.org/abs/2204.00401); Zilong Zhao, Aditya Kunar, Robert Birke, Lydia Y. Chen;
+**(arXiv)** [CTAB-GAN+: Enhancing Tabular Data Synthesis](https://arxiv.org/abs/2204.00401); Rodrigo Castellon, Achintya Gopal, Brian Bloniarz, David Rosenberg;
 
 #### 2021
 
