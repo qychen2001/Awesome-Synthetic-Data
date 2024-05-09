@@ -111,6 +111,8 @@ Template for the `README.md` file:
 
 **(arXiv)** [CuTS: Customizable Tabular Synthetic Data Generation](https://arxiv.org/abs/2307.03577v3); Mark Vero, Mislav Balunović, Martin Vechev;
 
+**(arXiv)** [On the Usefulness of Synthetic Tabular Data Generation](https://arxiv.org/abs/2306.15636); Dionysis Manousakas, Sergül Aydöre;
+
 #### 2022
 
 **(arXiv)** [CTAB-GAN+: Enhancing Tabular Data Synthesis](https://arxiv.org/abs/2204.00401); Rodrigo Castellon, Achintya Gopal, Brian Bloniarz, David Rosenberg;
