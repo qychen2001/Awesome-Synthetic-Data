@@ -99,6 +99,8 @@ Template for the `README.md` file:
 
 #### 2023
 
+**(NIPS)** [TabMT: Generating tabular data with masked transformers](https://proceedings.neurips.cc/paper_files/paper/2023/hash/90debc7cedb5cac83145fc8d18378dc5-Abstract-Conference.html); Manbir Gulati, Paul Roysdon;
+
 **(ICML)** [TabDDPM: Modelling Tabular Data with Diffusion Models](https://proceedings.mlr.press/v202/kotelnikov23a/kotelnikov23a.pdf); Akim Kotelnikov, Dmitry Baranchuk, Ivan Rubachev, Artem Babenko;
 
 **(arXiv)** [TabuLa: Harnessing Language Models for Tabular Data Synthesis](https://arxiv.org/abs/2310.12746); Zilong Zhao, Robert Birke, Lydia Chen;
