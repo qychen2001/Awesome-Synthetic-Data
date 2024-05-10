@@ -32,6 +32,8 @@ Template for the `README.md` file:
 
 **(arXiv)** [MathGenie: Generating Synthetic Data with Question Back-translation for Enhancing Mathematical Reasoning of LLMs](https://arxiv.org/abs/2402.16352); Zimu Lu, Aojun Zhou, Houxing Ren, Ke Wang, Weikang Shi, Junting Pan, Mingjie Zhan, Hongsheng Li;
 
+**(arXiv)** [Synthetic Dialogue Dataset Generation using LLM Agents](https://arxiv.org/abs/2401.17461); Yelaman Abdullin, Diego Molla-Aliod, Bahadorreza Ofoghi, John Yearwood, Qingyang Li;
+
 #### 2023
 
 **(EMNLP)** [Contrastive Learning of Sentence Embeddings from Scratch](https://arxiv.org/abs/2305.15077); Junlei Zhang, Zhenzhong Lan, Junxian He;
