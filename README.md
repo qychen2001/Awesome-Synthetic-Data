@@ -38,6 +38,8 @@ Template for the `README.md` file:
 
 **(EMNLP)** [FreeAL: Towards Human-Free Active Learning in the Era of Large Language Models](https://arxiv.org/abs/2311.15614); Ruixuan Xiao, Yiwen Dong, Junbo Zhao, Runze Wu, Minmin Lin, Gang Chen, Haobo Wang;
 
+**(EMNLP)** [Synthetic Data Generation with Large Language Models for Text Classification: Potential and Limitations](https://arxiv.org/abs/2310.07849); Zhuoyan Li, Hangxiao Zhu, Zhuoran Lu, Ming Yin;
+
 **(NIPS)** [Large Language Model as Attributed Training Data Generator: A Tale of Diversity and Bias](https://arxiv.org/abs/2306.15895); Yue Yu, Yuchen Zhuang, Jieyu Zhang, Yu Meng, Alexander Ratner, Ranjay Krishna, Jiaming Shen, Chao Zhang;
 
 #### 2022
