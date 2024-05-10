@@ -82,6 +82,7 @@ Template for the `README.md` file:
 
 **(arXiv)** [TextSquare: Scaling up Text-Centric Visual Instruction Tuning](https://arxiv.org/abs/2404.12803); Jingqun Tang, Chunhui Lin, Zhen Zhao, Shu Wei, Binghong Wu, Qi Liu, Hao Feng, Yang Li, Siqi Wang, Lei Liao, Wei Shi, Yuliang Liu, Hao Liu, Yuan Xie, Xiang Bai, Can Huang;
 
+**(arXiv)** [Synth2: Boosting Visual-Language Models with Synthetic Captions and Image Embeddings](https://arxiv.org/abs/2403.07750); Sahand Sharifzadeh, Christos Kaplanis, Shreya Pathak, Dharshan Kumaran, Anastasija Ilic, Jovana Mitrovic, Charles Blundell, Andrea Banino;
 
 #### 2023
 
