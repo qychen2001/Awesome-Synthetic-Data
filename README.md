@@ -12,6 +12,8 @@ Template for the `README.md` file:
 
 **(arXiv)** [Generative AI for Synthetic Data Generation: Methods, Challenges and the Future](https://arxiv.org/abs/2403.04190); Xu Guo, Yiqiang Chen;
 
+**(arXiv)** [Synthetic Data in AI: Challenges, Applications, and Ethical Implications](https://arxiv.org/abs/2401.01629); Shuang Hao, Wenfeng Han, Tao Jiang, Yiping Li, Haonan Wu, Chunlin Zhong, Zhangjun Zhou, He Tang;
+
 ## Papers
 
 ### NLP
