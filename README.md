@@ -30,6 +30,8 @@ Template for the `README.md` file:
 
 **(arXiv)** [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/abs/2401.01335); Zixiang Chen, Yihe Deng, Huizhuo Yuan, Kaixuan Ji, Quanquan Gu;
 
+**(arXiv)** [MathGenie: Generating Synthetic Data with Question Back-translation for Enhancing Mathematical Reasoning of LLMs](https://arxiv.org/abs/2402.16352); Zimu Lu, Aojun Zhou, Houxing Ren, Ke Wang, Weikang Shi, Junting Pan, Mingjie Zhan, Hongsheng Li;
+
 #### 2023
 
 **(EMNLP)** [Contrastive Learning of Sentence Embeddings from Scratch](https://arxiv.org/abs/2305.15077); Junlei Zhang, Zhenzhong Lan, Junxian He;
