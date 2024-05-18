@@ -82,6 +82,8 @@ Template for the `README.md` file:
 
 **(arXiv)** [Mind the Gap Between Synthetic and Real: Utilizing Transfer Learning to Probe the Boundaries of Stable Diffusion Generated Data](https://arxiv.org/abs/2405.03243); Leonhard Hennicke, Christian Medeiros Adriano, Holger Giese, Jan Mathias Koehler, Lukas Schott;
 
+**(arXiv)** [Zero-Shot Distillation for Image Encoders: How to Make Effective Use of Synthetic Data](https://arxiv.org/abs/2404.16637); Niclas Popp, Jan Hendrik Metzen, Matthias Hein;
+
 #### 2023
 
 **(NIPS)** [StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners](http://arxiv.org/abs/2306.00984); Yonglong Tian, Lijie Fan, Phillip Isola, Huiwen Chang, Dilip Krishnan;
