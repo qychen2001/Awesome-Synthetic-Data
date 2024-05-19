@@ -86,6 +86,8 @@ Template for the `README.md` file:
 
 **(arXiv)** [Just Say the Name: Online Continual Learning with Category Names Only via Data Generation](https://arxiv.org/abs/2403.10853); Minhyuk Seo, Diganta Misra, Seongwon Cho, Minjae Lee, Jonghyun Choi;
 
+**(arXiv)** [DiffuLT: How to Make Diffusion Model Useful for Long-tail Recognition](https://arxiv.org/abs/2403.05170); Jie Shao, Ke Zhu, Hanxiao Zhang, Jianxin Wu;
+
 #### 2023
 
 **(NIPS)** [StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners](http://arxiv.org/abs/2306.00984); Yonglong Tian, Lijie Fan, Phillip Isola, Huiwen Chang, Dilip Krishnan;
