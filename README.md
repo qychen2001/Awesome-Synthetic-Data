@@ -159,3 +159,7 @@ Template for the `README.md` file:
 #### 2021
 
 **(arXiv)** [CTAB-GAN: Effective Table Data Synthesizing](https://arxiv.org/abs/2102.08369); Zilong Zhao, Aditya Kunar, Hiek Van der Scheer, Robert Birke, Lydia Y. Chen;
+
+## Other Resources
+
+**(CVPR 2024 Workshop)** [Synthetic Data for Computer Vision](https://syndata4cv.github.io/)
