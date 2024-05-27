@@ -72,6 +72,8 @@ Template for the `README.md` file:
 
 **(ACL)** [Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor](https://arxiv.org/abs/2212.09689); Or Honovich, Thomas Scialom, Omer Levy, Timo Schick;
 
+**(EMNLP)** [ZeroGen: Efficient Zero-shot Learning via Dataset Generation](https://aclanthology.org/2022.emnlp-main.801/); Jiacheng Ye, Jiahui Gao, Qintong Li, Hang Xu, Jiangtao Feng, Zhiyong Wu, Tao Yu, Lingpeng Kong;
+
 #### 2019
 
 **(ICLR)** [Analysing Mathematical Reasoning Abilities of Neural Models](https://openreview.net/pdf?id=H1gR5iR5FX) David Saxton, Edward Grefenstette, Felix Hill, Pushmeet Kohli;
