@@ -64,6 +64,8 @@ Template for the `README.md` file:
 
 **(arXiv)** [Textbooks Are All You Need II: phi-1.5 technical report](https://arxiv.org/abs/2309.05463); Yuanzhi Li, Sébastien Bubeck, Ronen Eldan, Allie Del Giorno, Suriya Gunasekar, Yin Tat Lee;
 
+**(arXiv)** [Does Synthetic Data Generation of LLMs Help Clinical Text Mining?](https://arxiv.org/abs/2303.04360); Ruixiang Tang, Xiaotian Han, Xiaoqian Jiang, Xia Hu;
+
 #### 2022
 
 **(ACL)** [Self-Instruct: Aligning Language Models with Self-Generated Instructions](https://arxiv.org/abs/2212.10560); Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi;
