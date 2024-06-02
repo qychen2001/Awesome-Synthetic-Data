@@ -86,6 +86,8 @@ Template for the `README.md` file:
 
 **(CVPR)** [InstaGen: Enhancing Object Detection by Training on Synthetic Dataset](https://arxiv.org/abs/2402.05937); Chengjian Feng, Yujie Zhong, Zequn Jie, Weidi Xie, Lin Ma;
 
+**(CVPR)** [M3Act: Learning from Synthetic Human Group Activities](https://arxiv.org/abs/2306.16772); Che-Jui Chang, Danrui Li, Deep Patel, Parth Goel, Honglu Zhou, Seonghyeon Moon, Samuel S. Sohn, Sejong Yoon, Vladimir Pavlovic, Mubbasir Kapadia;
+
 **(arXiv)** [Mind the Gap Between Synthetic and Real: Utilizing Transfer Learning to Probe the Boundaries of Stable Diffusion Generated Data](https://arxiv.org/abs/2405.03243); Leonhard Hennicke, Christian Medeiros Adriano, Holger Giese, Jan Mathias Koehler, Lukas Schott;
 
 **(arXiv)** [Zero-Shot Distillation for Image Encoders: How to Make Effective Use of Synthetic Data](https://arxiv.org/abs/2404.16637); Niclas Popp, Jan Hendrik Metzen, Matthias Hein;
