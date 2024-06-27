@@ -34,8 +34,6 @@ Template for the `README.md` file:
 
 **(arXiv)** [MathGenie: Generating Synthetic Data with Question Back-translation for Enhancing Mathematical Reasoning of LLMs](https://arxiv.org/abs/2402.16352); Zimu Lu, Aojun Zhou, Houxing Ren, Ke Wang, Weikang Shi, Junting Pan, Mingjie Zhan, Hongsheng Li;
 
-**(arXiv)** [Synthetic Dialogue Dataset Generation using LLM Agents](https://arxiv.org/abs/2401.17461); Yelaman Abdullin, Diego Molla-Aliod, Bahadorreza Ofoghi, John Yearwood, Qingyang Li;
-
 **(arXiv)** [Mitigating Catastrophic Forgetting in Large Language Models with Self-Synthesized Rehearsal](https://arxiv.org/abs/2403.01244); Jianheng Huang, Leyang Cui, Ante Wang, Chengyi Yang, Xinting Liao, Linfeng Song, Junfeng Yao, Jinsong Su;
 
 #### 2023
@@ -49,6 +47,8 @@ Template for the `README.md` file:
 **(EMNLP)** [Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data](https://arxiv.org/abs/2304.01196); Canwen Xu, Daya Guo, Nan Duan, Julian McAuley;
 
 **(EMNLP)** [Enhancing Chat Language Models by Scaling High-quality Instructional Conversations](https://arxiv.org/abs/2305.14233); Ning Ding, Yulin Chen, Bokai Xu, Yujia Qin, Zhi Zheng, Shengding Hu, Zhiyuan Liu, Maosong Sun, Bowen Zhou;
+
+**(EMNLP)** [Synthetic Dialogue Dataset Generation using LLM Agents](https://arxiv.org/abs/2401.17461); Yelaman Abdullin, Diego Molla-Aliod, Bahadorreza Ofoghi, John Yearwood, Qingyang Li;
 
 **(NIPS)** [Large Language Model as Attributed Training Data Generator: A Tale of Diversity and Bias](https://arxiv.org/abs/2306.15895); Yue Yu, Yuchen Zhuang, Jieyu Zhang, Yu Meng, Alexander Ratner, Ranjay Krishna, Jiaming Shen, Chao Zhang;
 
